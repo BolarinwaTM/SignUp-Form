@@ -1,0 +1,10 @@
+.App {
+    background: white;
+    border-radius: 10px;
+    width: 500px;
+    padding: 50px;
+  }
+
+.App button{
+    margin-right: 30px;
+  }
